@@ -1,0 +1,2 @@
+# localsaltexample
+Local salt example
